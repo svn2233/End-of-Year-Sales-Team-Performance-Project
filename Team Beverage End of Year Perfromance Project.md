@@ -180,6 +180,7 @@ ORDER BY 6 DESC;
 ###### *Now the data is ready to be visualized in Tableau*
 
 ## [Link to Tableau Dashboard](https://public.tableau.com/views/Beverage_team/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+![](images/17.png)<!-- -->
 
 ## Final Insights
 1. The team sold a total of 7093 cases resulting in $297.91 k ins sales and visited 10,833 accounts
