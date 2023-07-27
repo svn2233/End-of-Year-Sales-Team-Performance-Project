@@ -4,12 +4,13 @@
 
 ## Introduction
 
-#### In this project I will use MySQL to explore and analyze data and then visualize the data in Tableau to provide insights to the stakeholders.
+In this project I will use MySQL to explore and analyze data and then visualize the data in Tableau to provide insights to the stakeholders.
 
 ## Objective
 ###### (*Please note that the names in the project are fictitious and are used only for the purpose of this project & the dataset is a mock dataset*)
-##### I am a manager in sales covering NYC for a beverage company. Since it is the end of the year I am tasked with evaluating my teams performance this year and presenting it in a final Tableau story. The stakeholders need to know which employees hitting their metrics or not achieving their metrics. If not they need to know how will I improve their performance for the coming year. They need to also know which employees deserves a full merit increase and which employee is ready for a promotion. They also what KPI directly affect cases sold as it drives profit. They will need data driven insights from me. To deliver data driven insights to my stakeholder I will answer questions like:
-	1. Which rep is performing the best or worst?
+I am a sales manager responsible for overseeing the NYC region for a beverage company. As the year comes to a close, I have been assigned the task of evaluating my team's performance throughout the year and presenting my insights to senior leadership. The stakeholders require information on which employees have met their performance metrics and those who haven't. For those who didn't meet their metrics, I will outline strategies to improve their performance in the coming year. Additionally, the stakeholders want to identify employees deserving of a full merit increase and those ready for a promotion. Furthermore, they seek to understand which Key Performance Indicators (KPIs) directly impact the number of cases sold, as it directly affects the company's profitability. To meet these requirements, I will provide data-driven insights by addressing questions such as:
+	
+ 	1. Which rep is performing the best or worst?
 	2. Is there a correlation between # of account visits and cases sold?
 	3. How do we improve the performance of the worst performing rep
 	4. Is there any trends that is seen in the database?
@@ -183,17 +184,17 @@ ORDER BY 6 DESC;
 ![](images/17.png)<!-- -->
 
 ## Final Insights
-1. The team sold a total of 7093 cases resulting in $297.91 k ins sales and visited 10,833 accounts
-2. The team averaged 10.42 daily stops a day.
-3. There is a direct correlation between account visits and cases sold
-4. Luca Toni of Staten Island is the best sales rep with an average daily stop of 11.58 and Brad Jones of Brooklyn is the worst performing rep with an average of 8.55 stops a day.
-5. Joe Mac of Manhattan is our 2nd best sales rep with average daily stop of 11.21 and Randy Thompson of Queens is the 3rd best performing rep with an average of 10.33 stops a day.
-6. Luca Toni sold the most cases with 2068 sold resulting in $86.86k, Joe Mac sold the 2nd most selling 1828 cases resulting in $76.78k in sales, followed by Randy Thompson sold 1699 cases resulting in $71.36 k in sales,Brad Jones sold the least selling only 1498 cases resulting in $62.92 k in sales.
-7. Luca Toni deserves a full merit increase and he is ready for a promotion.
-8. Both Luca & Joe are surpassing their goals thus deserving the full merit increase. With Randy meeting his goals he deserves the normal merit increase and Brad doesn't merit an increase as he failed to meet his goals.
-10. Doing a deeper dive into into Randy monthly numbers it seems that he is motivated to just met his targets and nothing more as his numbers month to month are more of the same. This suggests that he is not performing to his potential. I will schedule a meeting with him to discuss.
-11. I need to be out in the field with Brad for further training as he is not meeting any of our KPIs
-12. Have worst performing sales rep Brad do a route ride with Luca Toni so he can learn from our best sales rep.
-13. June, July, August are the busiest months while the winter/holidays months are the slowest 
-14. There is a direct correlation between facing gained, POS, coolers placed and # of cases sold. To increase this KPIs I suggest that we have an incentive or make it apart of their bonuses.
-15. 1/3 of our sales were innovations which means that 30% of our sales were new flavors!
+* The team sold a total of 7,093 cases, resulting in $297.91k in sales, and visited 10,833 accounts.
+* The team averaged 10.42 daily stops per day.
+* There is a direct correlation between account visits and cases sold.
+* Luca Toni of Staten Island is the best sales rep with an average of 11.58 daily stops, while Brad Jones of Brooklyn is the worst-performing rep with an average of 8.55 stops per day.
+* Joe Mac of Manhattan is our second-best sales rep with an average of 11.21 daily stops, and Randy Thompson of Queens is the third-best performing rep with an average of 10.33 stops per day.
+* Luca Toni sold the most cases, with 2,068 sold, resulting in $86.86k in sales. Joe Mac sold the second-most, with 1,828 cases, resulting in $76.78k in sales. Followed by Randy Thompson, who sold 1,699 cases, resulting in $71.36k in sales. Brad Jones sold the least, with only 1,498 cases, resulting in $62.92k in sales.
+* Luca Toni deserves a full merit increase, and he is ready for a promotion.
+* Both Luca and Joe are surpassing their goals, thus deserving the full merit increase. Randy, meeting his goals, deserves the normal merit increase, and Brad doesn't merit an increase as he failed to meet his goals.
+* Upon analyzing Randy's monthly numbers, it seems that he is only motivated to meet his targets and nothing more, as his numbers month-to-month show a consistent pattern. This suggests that he is not performing up to his potential. I will schedule a meeting with him to discuss further.
+* I need to accompany Brad in the field for additional training, as he is not meeting any of our metrics.
+* To help improve the performance of our worst-performing sales rep, Brad, I suggest having him do a route ride with Luca Toni to learn from our best sales rep.
+* June, July, and August are the busiest months, while the winter/holiday months are the slowest.
+* There is a direct correlation between facings gained, POS placements, coolers placed, and the number of cases sold. To increase these metrics, I suggest implementing incentives or making them a part of their bonuses.
+* Approximately one-third of our sales were innovations, indicating that 30% of our sales were from new flavors!
