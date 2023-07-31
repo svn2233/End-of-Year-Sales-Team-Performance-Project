@@ -1,4 +1,4 @@
-# Team Beverage End of Year Perfromance Project SQL --> Tableau
+# Team Beverage End of Year Perfromance, End to End Project.
 
 ###### By: Steven Nguyen
 
@@ -7,7 +7,7 @@
 In this project I will use MySQL to explore and analyze data and then visualize the data in Tableau to provide insights to the stakeholders.
 
 ## Objective
-###### (*Please note that the names in the project are fictitious and are used only for the purpose of this project & the dataset is a mock dataset*)
+###### (*Please note that the names in the project are fictitious and are used only for the purpose of this project & the dataset is a mock dataset created by me*)
 I am a sales manager responsible for overseeing the NYC region for a beverage company. As the year comes to a close, I have been assigned the task of evaluating my team's performance throughout the year and presenting my insights to senior leadership. The stakeholders require information on which employees have met their performance metrics and those who haven't. For those who didn't meet their metrics, I will outline strategies to improve their performance in the coming year. Additionally, the stakeholders want to identify employees deserving of a full merit increase and those ready for a promotion. Furthermore, they seek to understand which Key Performance Indicators (KPIs) directly impact the number of cases sold, as it directly affects the company's profitability. To meet these requirements, I will provide data-driven insights by addressing questions such as:
 	
  	1. Which rep is performing the best or worst?
